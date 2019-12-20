@@ -17,12 +17,12 @@
 	- [更新过程](#更新过程)
 	
 ### 快速启动
-- 下载相关的包
+- 下载相关的包  
 	npm: `npm install`
 	yarn: `yarn`
-- 启动mock
+- 启动mock  
 	在项目根目录下打开node,运行`npm run mock`,默认监听端口号为8090,如果已被占用,请修改server.js和src/env.js中的端口号
-- 启动项目
+- 启动项目  
 	在项目根目录下打开另一个node,运行`npm run start`,项目启动后自动打开浏览器
 	
 ### 环境搭建
